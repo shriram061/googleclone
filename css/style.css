@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: flex-end;
+    margin-right: 5px;
+	margin-top: 14px;
+    
+}
+#gmail 
+{
+    padding: 10px;
+    text-decoration: none;
+}
+#images1
+{
+    width: 75px;
+    text-decoration: none;
+}
+#gmail:hover
+{
+    text-decoration: underline;
+}
+#images1:hover
+{
+    text-decoration: underline;
+}
+
+.signin
+{
+    background-color:  rgb(3, 101, 248);
+    position: relative;
+    border-radius: 5px;
+    border-color: rgb(3, 101, 248);
+    /* margin: 6px; */
+    padding: 9px;
+    color: white;
+}
+#blank
+{
+    visibility: hidden;
+}
+#gimage
+{
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+    padding: 2px;
+    /* height: 10px */
+
+}
+#s1
+{
+    display: flex;
+    margin: -96px;
+    justify-content: center;
+    padding: 2px;
+}
+
+#search{
+    padding: 10px;
+    border-radius: 25px 25px 25px 25px;
+    
+    border-top:    1px groove black;
+  border-left:  1px groove black; 
+  border-bottom: 1px groove black;
+  border-right: 1px groove black;
+  
+}
+.mic{
+    position: relative;
+    right: 32px;
+    border-radius: 0px 25px 25px 0px;
+border-top:    1px groove black;
+  border-left:   hidden;
+  border-bottom: 1px groove black;
+  border-right: 1px groove black;
+}
+#micc{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    top: 4px;
+    right: 32px;
+    border-radius: 0px 25px 25px 0px;
+    border: hidden;
+}
+
+.buttonofsearch
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    bottom: -125px;
+
+    
+}
+#gs{
+    background-color:  white;
+    border-radius: 5px;
+    border-color: white;
+    /* margin: 6px; */
+    padding: 8px 50px;
+    color: black;
+}
+#lucky{
+    background-color:  rgb(254, 254, 255);
+    border-radius: 5px;
+    border-color: rgb(252, 253, 253);
+    
+    /* margin: 6px; */
+    padding: 8px 50px;
+    color:black;
+}
+.lang{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: -145px;
+}
+#hi
+{
+    text-decoration: none;
+}
+
+#hi:hover{
+    text-decoration: underline;
+}
+.b
+{
+    text-decoration: none;
+}
+.b:hover{
+    text-decoration: underline;
+}
+.te{
+    text-decoration: none;
+}
+.te:hover{
+    text-decoration: underline;
+}
+.ma{
+    text-decoration: none;
+}
+.ma:hover{
+    text-decoration: underline;
+}
+.ta{
+    text-decoration: none;
+}
+.ta:hover{
+    text-decoration: underline;
+}
+.gj{
+    text-decoration: none;
+}
+.gj:hover{
+    text-decoration: underline;
+}
+.my{
+    text-decoration: none;
+}
+.my:hover{
+    text-decoration: underline;
+}
+.ka{
+    text-decoration: none;
+}
+.ka:hover{
+    text-decoration: underline;
+}
